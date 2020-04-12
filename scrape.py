@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 
 
-@dataclass(frozen=True)
+@dataclass(frozen=False)
 class Countries:
     name: str
     totalCases: int
@@ -38,77 +38,77 @@ def init():
 
 # Creates a Countries object for every country in listOfCountries.txt and then
 # stores it in a list
-def initList(aList):
+def initList():
+    aList = []
+
     f = open("listOfCountries.txt", "r")
     for line in f:
-        tempCountry = Countries(str(line.strip), 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+        temp = str(line.strip())
+        tempCountry = Countries(temp, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
         aList.append(tempCountry)
     f.close()
-
     return aList
 
 
+# Parses through data.txt to find data on each country. It then takes that data and
+# stores it in tempDict which is then passed to updateCountry where countriesList in
+# the main function will be updated.
 def createCountries(countryList):
-    # go through file and store every value in temp ints
-    # then go through list to find the corresponding country and replace it
     f = open("output/data.txt", "r")
     for line in f:
         if line.strip() == "<tr style=\"\">":
-            tempDict = {
+            valueDict = {
                 "name": "", "totalCases": 0, "newCases": 0, "totalDeaths": 0,
                 "newDeaths": 0, "totalRecovered": 0, "activeCases": 0,
                 "critical": 0, "totalCasesPerMilPop": 0, "deathsPerMilPop": 0,
                 "totalTests": 0, "testsPerMilPop": 0
             }
 
+            helperDict = {
+                0: "name", 1: "totalCases", 2: "newCases", 3: "totalDeaths",
+                4: "newDeaths", 5: "totalRecovered", 6: "activeCases", 7: "critical",
+                8: "totalCasesPerMilPop", 9: "deathsPerMilPop", 10: "totalTests",
+                11: "testsPerMilPop", 12: "testsPerMilPop"
+            }
+
             for x in range(13):
                 newLine = f.readline()
                 splitLine = newLine.split(">")
                 if len(splitLine) == 5:
-                    tempDict["name"] = splitLine[2][:splitLine[2].find("<")]
+                    valueDict["name"] = splitLine[2][:splitLine[2].find("<")]
                 if len(splitLine) == 3:
                     value = splitLine[1][:splitLine[1].find("<")]
                     # len of tempDict is 12
-                    if x == 1:
-                        tempDict["totalCases"] = value
-                    elif x == 2:
-                        tempDict["newCases"] = value
-                    elif x == 3:
-                        tempDict["totalDeaths"] = value
-                    elif x == 4:
-                        tempDict["totalDeaths"] = value
-                    elif x == 5:
-                        tempDict["newDeaths"] = value
-                    elif x == 6:
-                        tempDict["totalRecovered"] = value
-                    elif x == 7:
-                        tempDict["activeCases"] = value
-                    elif x == 8:
-                        tempDict["critical"] = value
-                    elif x == 9:
-                        tempDict["totalCasesPerMilPop"] = value
-                    elif x == 10:
-                        tempDict["deathsPerMilPop"] = value
-                    elif x == 11:
-                        tempDict["totalTests"] = value
-                    elif x == 12:
-                        tempDict["testsPerMilPop"] = value
+                    category = helperDict[x]
+                    valueDict[category] = value
 
-            #updateCountry(countryList, tempDict)
+            updateCountry(countryList, valueDict)
 
 
-#def updateCountry(countryList, valuesDict):
- #   for country in countryList:
-  #      print(country.name)
-   #     #if country.name == valuesDict["name"]:
+# Updates all the Countries objects values that are stored in the valueDict
+# countryList is a list of all the initialized Countries object
+def updateCountry(countryList, valueDict):
+    for country in countryList:
+        if valueDict["name"] == country.name:
+            country.totalCases = valueDict["totalCases"]
+            country.newCases = valueDict["newCases"]
+            country.totalDeaths = valueDict["totalDeaths"]
+            country.newDeaths = valueDict["newDeaths"]
+            country.totalRecovered = valueDict["totalRecovered"]
+            country.activeCases = valueDict["activeCases"]
+            country.critical = valueDict["critical"]
+            country.totalCasesPerMilPop = valueDict["totalCasesPerMilPop"]
+            country.deathsPerMilPop = valueDict["deathsPerMilPop"]
+            country.totalTests = valueDict["totalTests"]
+            country.testsPerMilPop = valueDict["testsPerMilPop"]
+        else:
+            pass
 
 
-
+# main function and nothing else
 def main():
     init()
-    countriesList = []
-    initList(countriesList)
-    #print(countriesList)
+    countriesList = initList()
     createCountries(countriesList)
 
 
