@@ -1,0 +1,2760 @@
+List of Country's and their COVID-19 Data from 2020-04-14
+
+Afghanistan:
+=+=+=+=+=
+Total Cases: 714
+New Cases: 
+Total Deaths: 23 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 40
+Num in Critical Condition: 651
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 18
+Total Tests: 0.6
+Tests Per Mil Pop: 
+
+Albania:
+=+=+=+=+=
+Total Cases: 475
+New Cases: 
+Total Deaths: 24 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 248
+Num in Critical Condition: 203
+Total Cases Per Mil Pop: 5
+Deaths Per Mil Pop: 165
+Total Tests: 8
+Tests Per Mil Pop: 1,496
+
+Algeria:
+=+=+=+=+=
+Total Cases: 2,070
+New Cases: 
+Total Deaths: 326 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 691
+Num in Critical Condition: 1,053
+Total Cases Per Mil Pop: 60
+Deaths Per Mil Pop: 47
+Total Tests: 7
+Tests Per Mil Pop: 77
+
+Andorra:
+=+=+=+=+=
+Total Cases: 659
+New Cases: 
+Total Deaths: 31 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 128
+Num in Critical Condition: 500
+Total Cases Per Mil Pop: 17
+Deaths Per Mil Pop: 8,529
+Total Tests: 401
+Tests Per Mil Pop: 21,653
+
+Angola:
+=+=+=+=+=
+Total Cases: 19
+New Cases: 
+Total Deaths: 2 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 5
+Num in Critical Condition: 12
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 0.6
+Total Tests: 0.06
+Tests Per Mil Pop: 
+
+Antigua & Deps:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Argentina:
+=+=+=+=+=
+Total Cases: 2,443
+New Cases: +166
+Total Deaths: 105 
+New Deaths: 0
+Total Recovered: +3
+Active Cases: 559
+Num in Critical Condition: 1,779
+Total Cases Per Mil Pop: 83
+Deaths Per Mil Pop: 54
+Total Tests: 2
+Tests Per Mil Pop: 505
+
+Armenia:
+=+=+=+=+=
+Total Cases: 1,067
+New Cases: 
+Total Deaths: 16 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 265
+Num in Critical Condition: 786
+Total Cases Per Mil Pop: 30
+Deaths Per Mil Pop: 360
+Total Tests: 5
+Tests Per Mil Pop: 2,806
+
+Australia:
+=+=+=+=+=
+Total Cases: 6,400
+New Cases: 
+Total Deaths: 61 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 3,598
+Num in Critical Condition: 2,741
+Total Cases Per Mil Pop: 80
+Deaths Per Mil Pop: 251
+Total Tests: 2
+Tests Per Mil Pop: 14,372
+
+Austria:
+=+=+=+=+=
+Total Cases: 14,226
+New Cases: 
+Total Deaths: 384 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 7,633
+Num in Critical Condition: 6,209
+Total Cases Per Mil Pop: 243
+Deaths Per Mil Pop: 1,580
+Total Tests: 43
+Tests Per Mil Pop: 16,854
+
+Azerbaijan:
+=+=+=+=+=
+Total Cases: 1,197
+New Cases: 
+Total Deaths: 13 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 351
+Num in Critical Condition: 833
+Total Cases Per Mil Pop: 25
+Deaths Per Mil Pop: 118
+Total Tests: 1
+Tests Per Mil Pop: 7,075
+
+Bahamas:
+=+=+=+=+=
+Total Cases: 49
+New Cases: 
+Total Deaths: 8 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 6
+Num in Critical Condition: 35
+Total Cases Per Mil Pop: 1
+Deaths Per Mil Pop: 125
+Total Tests: 20
+Tests Per Mil Pop: 
+
+Bahrain:
+=+=+=+=+=
+Total Cases: 1,528
+New Cases: 
+Total Deaths: 7 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 645
+Num in Critical Condition: 876
+Total Cases Per Mil Pop: 3
+Deaths Per Mil Pop: 898
+Total Tests: 4
+Tests Per Mil Pop: 40,762
+
+Bangladesh:
+=+=+=+=+=
+Total Cases: 1,012
+New Cases: 
+Total Deaths: 46 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 42
+Num in Critical Condition: 924
+Total Cases Per Mil Pop: 1
+Deaths Per Mil Pop: 6
+Total Tests: 0.3
+Tests Per Mil Pop: 80
+
+Barbados:
+=+=+=+=+=
+Total Cases: 73
+New Cases: 
+Total Deaths: 5 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 15
+Num in Critical Condition: 53
+Total Cases Per Mil Pop: 4
+Deaths Per Mil Pop: 254
+Total Tests: 17
+Tests Per Mil Pop: 3,007
+
+Belarus:
+=+=+=+=+=
+Total Cases: 3,281
+New Cases: 
+Total Deaths: 33 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 203
+Num in Critical Condition: 3,045
+Total Cases Per Mil Pop: 57
+Deaths Per Mil Pop: 347
+Total Tests: 3
+Tests Per Mil Pop: 7,606
+
+Belgium:
+=+=+=+=+=
+Total Cases: 31,119
+New Cases: 
+Total Deaths: 4,157 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 6,868
+Num in Critical Condition: 20,094
+Total Cases Per Mil Pop: 1,223
+Deaths Per Mil Pop: 2,685
+Total Tests: 359
+Tests Per Mil Pop: 8,814
+
+Belize:
+=+=+=+=+=
+Total Cases: 18
+New Cases: 
+Total Deaths: 2 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 
+Num in Critical Condition: 16
+Total Cases Per Mil Pop: 1
+Deaths Per Mil Pop: 45
+Total Tests: 5
+Tests Per Mil Pop: 1,426
+
+Benin:
+=+=+=+=+=
+Total Cases: 35
+New Cases: 
+Total Deaths: 1 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 18
+Num in Critical Condition: 16
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 3
+Total Tests: 0.08
+Tests Per Mil Pop: 
+
+Bhutan:
+=+=+=+=+=
+Total Cases: 5
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 2
+Num in Critical Condition: 3
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 6
+Total Tests: 
+Tests Per Mil Pop: 1,511
+
+Bolivia:
+=+=+=+=+=
+Total Cases: 354
+New Cases: 
+Total Deaths: 28 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 6
+Num in Critical Condition: 320
+Total Cases Per Mil Pop: 3
+Deaths Per Mil Pop: 30
+Total Tests: 2
+Tests Per Mil Pop: 187
+
+Bosnia Herzegovina:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Botswana:
+=+=+=+=+=
+Total Cases: 13
+New Cases: 
+Total Deaths: 1 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 
+Num in Critical Condition: 12
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 6
+Total Tests: 0.4
+Tests Per Mil Pop: 1,325
+
+Brazil:
+=+=+=+=+=
+Total Cases: 25,262
+New Cases: 
+Total Deaths: 1,532 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 14,026
+Num in Critical Condition: 9,704
+Total Cases Per Mil Pop: 296
+Deaths Per Mil Pop: 119
+Total Tests: 7
+Tests Per Mil Pop: 296
+
+Brunei:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Bulgaria:
+=+=+=+=+=
+Total Cases: 713
+New Cases: 
+Total Deaths: 35 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 81
+Num in Critical Condition: 597
+Total Cases Per Mil Pop: 29
+Deaths Per Mil Pop: 103
+Total Tests: 5
+Tests Per Mil Pop: 2,663
+
+Burkina:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Burundi:
+=+=+=+=+=
+Total Cases: 5
+New Cases: 
+Total Deaths: 1 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 
+Num in Critical Condition: 4
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 0.4
+Total Tests: 0.08
+Tests Per Mil Pop: 
+
+Cambodia:
+=+=+=+=+=
+Total Cases: 122
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 91
+Num in Critical Condition: 31
+Total Cases Per Mil Pop: 1
+Deaths Per Mil Pop: 7
+Total Tests: 
+Tests Per Mil Pop: 345
+
+Cameroon:
+=+=+=+=+=
+Total Cases: 848
+New Cases: 
+Total Deaths: 14 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 130
+Num in Critical Condition: 704
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 32
+Total Tests: 0.5
+Tests Per Mil Pop: 
+
+Canada:
+=+=+=+=+=
+Total Cases: 27,063
+New Cases: 
+Total Deaths: 903 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 8,235
+Num in Critical Condition: 17,925
+Total Cases Per Mil Pop: 557
+Deaths Per Mil Pop: 717
+Total Tests: 24
+Tests Per Mil Pop: 11,942
+
+Cape Verde:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Central African Rep:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Chad:
+=+=+=+=+=
+Total Cases: 23
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 2
+Num in Critical Condition: 21
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 1
+Total Tests: 
+Tests Per Mil Pop: 
+
+Chile:
+=+=+=+=+=
+Total Cases: 7,917
+New Cases: 
+Total Deaths: 92 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 2,646
+Num in Critical Condition: 5,179
+Total Cases Per Mil Pop: 387
+Deaths Per Mil Pop: 414
+Total Tests: 5
+Tests Per Mil Pop: 4,593
+
+China:
+=+=+=+=+=
+Total Cases: 82,295
+New Cases: +46
+Total Deaths: 3,342 
+New Deaths: 0
+Total Recovered: +1
+Active Cases: 77,816
+Num in Critical Condition: 1,137
+Total Cases Per Mil Pop: 113
+Deaths Per Mil Pop: 57
+Total Tests: 2
+Tests Per Mil Pop: 
+
+Colombia:
+=+=+=+=+=
+Total Cases: 2,979
+New Cases: 
+Total Deaths: 127 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 354
+Num in Critical Condition: 2,498
+Total Cases Per Mil Pop: 106
+Deaths Per Mil Pop: 59
+Total Tests: 2
+Tests Per Mil Pop: 846
+
+Comoros:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Congo:
+=+=+=+=+=
+Total Cases: 74
+New Cases: 
+Total Deaths: 5 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 10
+Num in Critical Condition: 59
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 13
+Total Tests: 0.9
+Tests Per Mil Pop: 
+
+Congo {Democratic Rep}:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Costa Rica:
+=+=+=+=+=
+Total Cases: 618
+New Cases: 
+Total Deaths: 3 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 66
+Num in Critical Condition: 549
+Total Cases Per Mil Pop: 14
+Deaths Per Mil Pop: 121
+Total Tests: 0.6
+Tests Per Mil Pop: 1,708
+
+Croatia:
+=+=+=+=+=
+Total Cases: 1,704
+New Cases: 
+Total Deaths: 31 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 415
+Num in Critical Condition: 1,258
+Total Cases Per Mil Pop: 34
+Deaths Per Mil Pop: 415
+Total Tests: 8
+Tests Per Mil Pop: 4,472
+
+Cuba:
+=+=+=+=+=
+Total Cases: 766
+New Cases: 
+Total Deaths: 21 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 132
+Num in Critical Condition: 613
+Total Cases Per Mil Pop: 9
+Deaths Per Mil Pop: 68
+Total Tests: 2
+Tests Per Mil Pop: 1,645
+
+Cyprus:
+=+=+=+=+=
+Total Cases: 695
+New Cases: 
+Total Deaths: 12 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 65
+Num in Critical Condition: 618
+Total Cases Per Mil Pop: 8
+Deaths Per Mil Pop: 576
+Total Tests: 10
+Tests Per Mil Pop: 14,845
+
+Czech Republic:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Denmark:
+=+=+=+=+=
+Total Cases: 6,511
+New Cases: 
+Total Deaths: 299 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 2,515
+Num in Critical Condition: 3,697
+Total Cases Per Mil Pop: 100
+Deaths Per Mil Pop: 1,124
+Total Tests: 52
+Tests Per Mil Pop: 12,812
+
+Djibouti:
+=+=+=+=+=
+Total Cases: 363
+New Cases: 
+Total Deaths: 2 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 53
+Num in Critical Condition: 308
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 367
+Total Tests: 2
+Tests Per Mil Pop: 5,421
+
+Dominica:
+=+=+=+=+=
+Total Cases: 16
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 8
+Num in Critical Condition: 8
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 222
+Total Tests: 
+Tests Per Mil Pop: 4,793
+
+Dominican Republic:
+=+=+=+=+=
+Total Cases: 3,286
+New Cases: 
+Total Deaths: 183 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 162
+Num in Critical Condition: 2,941
+Total Cases Per Mil Pop: 143
+Deaths Per Mil Pop: 303
+Total Tests: 17
+Tests Per Mil Pop: 855
+
+East Timor:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Ecuador:
+=+=+=+=+=
+Total Cases: 7,603
+New Cases: 
+Total Deaths: 369 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 696
+Num in Critical Condition: 6,538
+Total Cases Per Mil Pop: 129
+Deaths Per Mil Pop: 431
+Total Tests: 21
+Tests Per Mil Pop: 1,437
+
+Egypt:
+=+=+=+=+=
+Total Cases: 2,350
+New Cases: 
+Total Deaths: 178 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 589
+Num in Critical Condition: 1,583
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 23
+Total Tests: 2
+Tests Per Mil Pop: 244
+
+El Salvador:
+=+=+=+=+=
+Total Cases: 149
+New Cases: 
+Total Deaths: 6 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 25
+Num in Critical Condition: 118
+Total Cases Per Mil Pop: 2
+Deaths Per Mil Pop: 23
+Total Tests: 0.9
+Tests Per Mil Pop: 1,115
+
+Equatorial Guinea:
+=+=+=+=+=
+Total Cases: 41
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 4
+Num in Critical Condition: 37
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 29
+Total Tests: 
+Tests Per Mil Pop: 609
+
+Eritrea:
+=+=+=+=+=
+Total Cases: 35
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 
+Num in Critical Condition: 35
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 10
+Total Tests: 
+Tests Per Mil Pop: 
+
+Estonia:
+=+=+=+=+=
+Total Cases: 1,373
+New Cases: 
+Total Deaths: 31 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 115
+Num in Critical Condition: 1,227
+Total Cases Per Mil Pop: 11
+Deaths Per Mil Pop: 1,035
+Total Tests: 23
+Tests Per Mil Pop: 24,321
+
+Ethiopia:
+=+=+=+=+=
+Total Cases: 82
+New Cases: 
+Total Deaths: 3 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 14
+Num in Critical Condition: 65
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 0.7
+Total Tests: 0.03
+Tests Per Mil Pop: 40
+
+Fiji:
+=+=+=+=+=
+Total Cases: 16
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 
+Num in Critical Condition: 16
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 18
+Total Tests: 
+Tests Per Mil Pop: 
+
+Finland:
+=+=+=+=+=
+Total Cases: 3,161
+New Cases: 
+Total Deaths: 64 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 300
+Num in Critical Condition: 2,797
+Total Cases Per Mil Pop: 74
+Deaths Per Mil Pop: 571
+Total Tests: 12
+Tests Per Mil Pop: 8,535
+
+France:
+=+=+=+=+=
+Total Cases: 143,303
+New Cases: 
+Total Deaths: 15,729  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 28,805
+Num in Critical Condition: 98,769
+Total Cases Per Mil Pop: 6,730
+Deaths Per Mil Pop: 2,195
+Total Tests: 241
+Tests Per Mil Pop: 5,114
+
+Gabon:
+=+=+=+=+=
+Total Cases: 57
+New Cases: 
+Total Deaths: 1 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 1
+Num in Critical Condition: 55
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 26
+Total Tests: 0.4
+Tests Per Mil Pop: 
+
+Gambia:
+=+=+=+=+=
+Total Cases: 9
+New Cases: 
+Total Deaths: 1 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 2
+Num in Critical Condition: 6
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 4
+Total Tests: 0.4
+Tests Per Mil Pop: 116
+
+Georgia:
+=+=+=+=+=
+Total Cases: 300
+New Cases: 
+Total Deaths: 3 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 69
+Num in Critical Condition: 228
+Total Cases Per Mil Pop: 6
+Deaths Per Mil Pop: 75
+Total Tests: 0.8
+Tests Per Mil Pop: 1,260
+
+Germany:
+=+=+=+=+=
+Total Cases: 132,210
+New Cases: 
+Total Deaths: 3,495 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 68,200
+Num in Critical Condition: 60,515
+Total Cases Per Mil Pop: 4,288
+Deaths Per Mil Pop: 1,578
+Total Tests: 42
+Tests Per Mil Pop: 15,730
+
+Ghana:
+=+=+=+=+=
+Total Cases: 636
+New Cases: 
+Total Deaths: 8 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 17
+Num in Critical Condition: 611
+Total Cases Per Mil Pop: 2
+Deaths Per Mil Pop: 20
+Total Tests: 0.3
+Tests Per Mil Pop: 1,430
+
+Greece:
+=+=+=+=+=
+Total Cases: 2,170
+New Cases: 
+Total Deaths: 101 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 269
+Num in Critical Condition: 1,800
+Total Cases Per Mil Pop: 76
+Deaths Per Mil Pop: 208
+Total Tests: 10
+Tests Per Mil Pop: 4,682
+
+Grenada:
+=+=+=+=+=
+Total Cases: 14
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 
+Num in Critical Condition: 14
+Total Cases Per Mil Pop: 2
+Deaths Per Mil Pop: 124
+Total Tests: 
+Tests Per Mil Pop: 818
+
+Guatemala:
+=+=+=+=+=
+Total Cases: 180
+New Cases: +13
+Total Deaths: 5 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 19
+Num in Critical Condition: 156
+Total Cases Per Mil Pop: 3
+Deaths Per Mil Pop: 10
+Total Tests: 0.3
+Tests Per Mil Pop: 63
+
+Guinea:
+=+=+=+=+=
+Total Cases: 363
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 31
+Num in Critical Condition: 332
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 28
+Total Tests: 
+Tests Per Mil Pop: 
+
+Guinea-Bissau:
+=+=+=+=+=
+Total Cases: 43
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 
+Num in Critical Condition: 43
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 22
+Total Tests: 
+Tests Per Mil Pop: 762
+
+Guyana:
+=+=+=+=+=
+Total Cases: 47
+New Cases: 
+Total Deaths: 6 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 8
+Num in Critical Condition: 33
+Total Cases Per Mil Pop: 5
+Deaths Per Mil Pop: 60
+Total Tests: 8
+Tests Per Mil Pop: 271
+
+Haiti:
+=+=+=+=+=
+Total Cases: 40
+New Cases: 
+Total Deaths: 3 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 
+Num in Critical Condition: 37
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 4
+Total Tests: 0.3
+Tests Per Mil Pop: 32
+
+Honduras:
+=+=+=+=+=
+Total Cases: 407
+New Cases: 
+Total Deaths: 26 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 7
+Num in Critical Condition: 374
+Total Cases Per Mil Pop: 10
+Deaths Per Mil Pop: 41
+Total Tests: 3
+Tests Per Mil Pop: 162
+
+Hungary:
+=+=+=+=+=
+Total Cases: 1,512
+New Cases: 
+Total Deaths: 122 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 122
+Num in Critical Condition: 1,268
+Total Cases Per Mil Pop: 58
+Deaths Per Mil Pop: 157
+Total Tests: 13
+Tests Per Mil Pop: 3,708
+
+Iceland:
+=+=+=+=+=
+Total Cases: 1,720
+New Cases: 
+Total Deaths: 8 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 989
+Num in Critical Condition: 723
+Total Cases Per Mil Pop: 8
+Deaths Per Mil Pop: 5,040
+Total Tests: 23
+Tests Per Mil Pop: 106,490
+
+India:
+=+=+=+=+=
+Total Cases: 11,487
+New Cases: 
+Total Deaths: 393 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 1,359
+Num in Critical Condition: 9,735
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 8
+Total Tests: 0.3
+Tests Per Mil Pop: 177
+
+Indonesia:
+=+=+=+=+=
+Total Cases: 4,839
+New Cases: 
+Total Deaths: 459 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 426
+Num in Critical Condition: 3,954
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 18
+Total Tests: 2
+Tests Per Mil Pop: 116
+
+Iran:
+=+=+=+=+=
+Total Cases: 74,877
+New Cases: 
+Total Deaths: 4,683 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 48,129
+Num in Critical Condition: 22,065
+Total Cases Per Mil Pop: 3,691
+Deaths Per Mil Pop: 891
+Total Tests: 56
+Tests Per Mil Pop: 3,421
+
+Iraq:
+=+=+=+=+=
+Total Cases: 1,400
+New Cases: 
+Total Deaths: 78 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 766
+Num in Critical Condition: 556
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 35
+Total Tests: 2
+Tests Per Mil Pop: 1,130
+
+Ireland {Republic}:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Israel:
+=+=+=+=+=
+Total Cases: 12,046
+New Cases: 
+Total Deaths: 123 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 2,195
+Num in Critical Condition: 9,728
+Total Cases Per Mil Pop: 175
+Deaths Per Mil Pop: 1,392
+Total Tests: 14
+Tests Per Mil Pop: 13,557
+
+Italy:
+=+=+=+=+=
+Total Cases: 162,488
+New Cases: 
+Total Deaths: 21,067 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 37,130
+Num in Critical Condition: 104,291
+Total Cases Per Mil Pop: 3,186
+Deaths Per Mil Pop: 2,687
+Total Tests: 348
+Tests Per Mil Pop: 17,758
+
+Ivory Coast:
+=+=+=+=+=
+Total Cases: 638
+New Cases: 
+Total Deaths: 6 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 114
+Num in Critical Condition: 518
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 24
+Total Tests: 0.2
+Tests Per Mil Pop: 
+
+Jamaica:
+=+=+=+=+=
+Total Cases: 105
+New Cases: 
+Total Deaths: 4 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 19
+Num in Critical Condition: 82
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 35
+Total Tests: 1
+Tests Per Mil Pop: 436
+
+Japan:
+=+=+=+=+=
+Total Cases: 7,885
+New Cases: 
+Total Deaths: 146 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 853
+Num in Critical Condition: 6,886
+Total Cases Per Mil Pop: 152
+Deaths Per Mil Pop: 62
+Total Tests: 1
+Tests Per Mil Pop: 708
+
+Jordan:
+=+=+=+=+=
+Total Cases: 397
+New Cases: 
+Total Deaths: 7 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 235
+Num in Critical Condition: 155
+Total Cases Per Mil Pop: 5
+Deaths Per Mil Pop: 39
+Total Tests: 0.7
+Tests Per Mil Pop: 2,009
+
+Kazakhstan:
+=+=+=+=+=
+Total Cases: 1,232
+New Cases: 
+Total Deaths: 14 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 203
+Num in Critical Condition: 1,015
+Total Cases Per Mil Pop: 21
+Deaths Per Mil Pop: 66
+Total Tests: 0.7
+Tests Per Mil Pop: 4,096
+
+Kenya:
+=+=+=+=+=
+Total Cases: 216
+New Cases: 
+Total Deaths: 9 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 41
+Num in Critical Condition: 166
+Total Cases Per Mil Pop: 2
+Deaths Per Mil Pop: 4
+Total Tests: 0.2
+Tests Per Mil Pop: 151
+
+Kiribati:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Korea North:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Korea South:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Kosovo:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Kuwait:
+=+=+=+=+=
+Total Cases: 1,355
+New Cases: 
+Total Deaths: 3 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 176
+Num in Critical Condition: 1,176
+Total Cases Per Mil Pop: 26
+Deaths Per Mil Pop: 317
+Total Tests: 0.7
+Tests Per Mil Pop: 
+
+Kyrgyzstan:
+=+=+=+=+=
+Total Cases: 430
+New Cases: 
+Total Deaths: 5 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 71
+Num in Critical Condition: 354
+Total Cases Per Mil Pop: 5
+Deaths Per Mil Pop: 66
+Total Tests: 0.8
+Tests Per Mil Pop: 4,008
+
+Laos:
+=+=+=+=+=
+Total Cases: 19
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 1
+Num in Critical Condition: 18
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 3
+Total Tests: 
+Tests Per Mil Pop: 170
+
+Latvia:
+=+=+=+=+=
+Total Cases: 657
+New Cases: 
+Total Deaths: 5 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 16
+Num in Critical Condition: 636
+Total Cases Per Mil Pop: 3
+Deaths Per Mil Pop: 348
+Total Tests: 3
+Tests Per Mil Pop: 15,384
+
+Lebanon:
+=+=+=+=+=
+Total Cases: 641
+New Cases: 
+Total Deaths: 21 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 80
+Num in Critical Condition: 540
+Total Cases Per Mil Pop: 33
+Deaths Per Mil Pop: 94
+Total Tests: 3
+Tests Per Mil Pop: 2,391
+
+Lesotho:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Liberia:
+=+=+=+=+=
+Total Cases: 59
+New Cases: 
+Total Deaths: 6 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 4
+Num in Critical Condition: 49
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 12
+Total Tests: 1
+Tests Per Mil Pop: 
+
+Libya:
+=+=+=+=+=
+Total Cases: 35
+New Cases: 
+Total Deaths: 1 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 9
+Num in Critical Condition: 25
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 5
+Total Tests: 0.1
+Tests Per Mil Pop: 83
+
+Liechtenstein:
+=+=+=+=+=
+Total Cases: 79
+New Cases: 
+Total Deaths: 1 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 55
+Num in Critical Condition: 23
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 2,072
+Total Tests: 26
+Tests Per Mil Pop: 23,605
+
+Lithuania:
+=+=+=+=+=
+Total Cases: 1,070
+New Cases: 
+Total Deaths: 29 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 101
+Num in Critical Condition: 940
+Total Cases Per Mil Pop: 14
+Deaths Per Mil Pop: 393
+Total Tests: 11
+Tests Per Mil Pop: 15,682
+
+Luxembourg:
+=+=+=+=+=
+Total Cases: 3,307
+New Cases: 
+Total Deaths: 67 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 500
+Num in Critical Condition: 2,740
+Total Cases Per Mil Pop: 30
+Deaths Per Mil Pop: 5,283
+Total Tests: 107
+Tests Per Mil Pop: 47,163
+
+Macedonia:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Madagascar:
+=+=+=+=+=
+Total Cases: 108
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 23
+Num in Critical Condition: 85
+Total Cases Per Mil Pop: 1
+Deaths Per Mil Pop: 4
+Total Tests: 
+Tests Per Mil Pop: 
+
+Malawi:
+=+=+=+=+=
+Total Cases: 16
+New Cases: 
+Total Deaths: 2 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 
+Num in Critical Condition: 14
+Total Cases Per Mil Pop: 1
+Deaths Per Mil Pop: 0.8
+Total Tests: 0.1
+Tests Per Mil Pop: 16
+
+Malaysia:
+=+=+=+=+=
+Total Cases: 4,987
+New Cases: 
+Total Deaths: 82  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 2,478
+Num in Critical Condition: 2,427
+Total Cases Per Mil Pop: 60
+Deaths Per Mil Pop: 154
+Total Tests: 3
+Tests Per Mil Pop: 2,620
+
+Maldives:
+=+=+=+=+=
+Total Cases: 20
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 16
+Num in Critical Condition: 4
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 37
+Total Tests: 
+Tests Per Mil Pop: 5,363
+
+Mali:
+=+=+=+=+=
+Total Cases: 144
+New Cases: 
+Total Deaths: 13 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 34
+Num in Critical Condition: 97
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 7
+Total Tests: 0.6
+Tests Per Mil Pop: 
+
+Malta:
+=+=+=+=+=
+Total Cases: 393
+New Cases: 
+Total Deaths: 3 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 44
+Num in Critical Condition: 346
+Total Cases Per Mil Pop: 4
+Deaths Per Mil Pop: 890
+Total Tests: 7
+Tests Per Mil Pop: 43,305
+
+Marshall Islands:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Mauritania:
+=+=+=+=+=
+Total Cases: 7
+New Cases: 
+Total Deaths: 1 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 2
+Num in Critical Condition: 4
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 2
+Total Tests: 0.2
+Tests Per Mil Pop: 128
+
+Mauritius:
+=+=+=+=+=
+Total Cases: 324
+New Cases: 
+Total Deaths: 9 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 51
+Num in Critical Condition: 264
+Total Cases Per Mil Pop: 3
+Deaths Per Mil Pop: 255
+Total Tests: 7
+Tests Per Mil Pop: 6,510
+
+Mexico:
+=+=+=+=+=
+Total Cases: 5,014
+New Cases: 
+Total Deaths: 332 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 1,964
+Num in Critical Condition: 2,718
+Total Cases Per Mil Pop: 207
+Deaths Per Mil Pop: 39
+Total Tests: 3
+Tests Per Mil Pop: 290
+
+Micronesia:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Moldova:
+=+=+=+=+=
+Total Cases: 1,934
+New Cases: 
+Total Deaths: 40 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 134
+Num in Critical Condition: 1,760
+Total Cases Per Mil Pop: 80
+Deaths Per Mil Pop: 479
+Total Tests: 10
+Tests Per Mil Pop: 1,555
+
+Monaco:
+=+=+=+=+=
+Total Cases: 93
+New Cases: 
+Total Deaths: 1 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 6
+Num in Critical Condition: 86
+Total Cases Per Mil Pop: 5
+Deaths Per Mil Pop: 2,370
+Total Tests: 25
+Tests Per Mil Pop: 
+
+Mongolia:
+=+=+=+=+=
+Total Cases: 30
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 5
+Num in Critical Condition: 25
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 9
+Total Tests: 
+Tests Per Mil Pop: 305
+
+Montenegro:
+=+=+=+=+=
+Total Cases: 283
+New Cases: 
+Total Deaths: 4 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 46
+Num in Critical Condition: 233
+Total Cases Per Mil Pop: 7
+Deaths Per Mil Pop: 451
+Total Tests: 6
+Tests Per Mil Pop: 4,568
+
+Morocco:
+=+=+=+=+=
+Total Cases: 1,888
+New Cases: 
+Total Deaths: 126 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 217
+Num in Critical Condition: 1,545
+Total Cases Per Mil Pop: 1
+Deaths Per Mil Pop: 51
+Total Tests: 3
+Tests Per Mil Pop: 260
+
+Mozambique:
+=+=+=+=+=
+Total Cases: 28
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 2
+Num in Critical Condition: 26
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 0.9
+Total Tests: 
+Tests Per Mil Pop: 24
+
+Myanmar, {Burma}:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Namibia:
+=+=+=+=+=
+Total Cases: 16
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 3
+Num in Critical Condition: 13
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 6
+Total Tests: 
+Tests Per Mil Pop: 142
+
+Nauru:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Nepal:
+=+=+=+=+=
+Total Cases: 16
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 1
+Num in Critical Condition: 15
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 0.5
+Total Tests: 
+Tests Per Mil Pop: 216
+
+Netherlands:
+=+=+=+=+=
+Total Cases: 27,419
+New Cases: 
+Total Deaths: 2,945 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 250
+Num in Critical Condition: 24,224
+Total Cases Per Mil Pop: 1,358
+Deaths Per Mil Pop: 1,600
+Total Tests: 172
+Tests Per Mil Pop: 7,877
+
+New Zealand:
+=+=+=+=+=
+Total Cases: 1,386
+New Cases: +20
+Total Deaths: 9 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 728
+Num in Critical Condition: 649
+Total Cases Per Mil Pop: 3
+Deaths Per Mil Pop: 287
+Total Tests: 2
+Tests Per Mil Pop: 13,790
+
+Nicaragua:
+=+=+=+=+=
+Total Cases: 9
+New Cases: 
+Total Deaths: 1 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 4
+Num in Critical Condition: 4
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 1
+Total Tests: 0.2
+Tests Per Mil Pop: 
+
+Niger:
+=+=+=+=+=
+Total Cases: 570
+New Cases: 
+Total Deaths: 14 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 90
+Num in Critical Condition: 466
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 24
+Total Tests: 0.6
+Tests Per Mil Pop: 183
+
+Nigeria:
+=+=+=+=+=
+Total Cases: 373
+New Cases: 
+Total Deaths: 11 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 99
+Num in Critical Condition: 263
+Total Cases Per Mil Pop: 2
+Deaths Per Mil Pop: 2
+Total Tests: 0.05
+Tests Per Mil Pop: 24
+
+Norway:
+=+=+=+=+=
+Total Cases: 6,623
+New Cases: 
+Total Deaths: 139  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 32
+Num in Critical Condition: 6,452
+Total Cases Per Mil Pop: 59
+Deaths Per Mil Pop: 1,222
+Total Tests: 26
+Tests Per Mil Pop: 23,716
+
+Oman:
+=+=+=+=+=
+Total Cases: 813
+New Cases: 
+Total Deaths: 4 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 130
+Num in Critical Condition: 679
+Total Cases Per Mil Pop: 3
+Deaths Per Mil Pop: 159
+Total Tests: 0.8
+Tests Per Mil Pop: 
+
+Pakistan:
+=+=+=+=+=
+Total Cases: 5,837
+New Cases: 
+Total Deaths: 96 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 1,378
+Num in Critical Condition: 4,363
+Total Cases Per Mil Pop: 46
+Deaths Per Mil Pop: 26
+Total Tests: 0.4
+Tests Per Mil Pop: 317
+
+Palau:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Panama:
+=+=+=+=+=
+Total Cases: 3,574
+New Cases: 
+Total Deaths: 95 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 72
+Num in Critical Condition: 3,407
+Total Cases Per Mil Pop: 106
+Deaths Per Mil Pop: 828
+Total Tests: 22
+Tests Per Mil Pop: 3,720
+
+Papua New Guinea:
+=+=+=+=+=
+Total Cases: 2
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 
+Num in Critical Condition: 2
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 0.2
+Total Tests: 
+Tests Per Mil Pop: 8
+
+Paraguay:
+=+=+=+=+=
+Total Cases: 161
+New Cases: +2
+Total Deaths: 8 
+New Deaths: 0
+Total Recovered: +1
+Active Cases: 23
+Num in Critical Condition: 130
+Total Cases Per Mil Pop: 1
+Deaths Per Mil Pop: 23
+Total Tests: 1
+Tests Per Mil Pop: 510
+
+Peru:
+=+=+=+=+=
+Total Cases: 10,303
+New Cases: 
+Total Deaths: 230 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 2,869
+Num in Critical Condition: 7,204
+Total Cases Per Mil Pop: 132
+Deaths Per Mil Pop: 312
+Total Tests: 7
+Tests Per Mil Pop: 3,100
+
+Philippines:
+=+=+=+=+=
+Total Cases: 5,223
+New Cases: 
+Total Deaths: 335 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 295
+Num in Critical Condition: 4,593
+Total Cases Per Mil Pop: 1
+Deaths Per Mil Pop: 48
+Total Tests: 3
+Tests Per Mil Pop: 397
+
+Poland:
+=+=+=+=+=
+Total Cases: 7,202
+New Cases: 
+Total Deaths: 263 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 618
+Num in Critical Condition: 6,321
+Total Cases Per Mil Pop: 160
+Deaths Per Mil Pop: 190
+Total Tests: 7
+Tests Per Mil Pop: 3,919
+
+Portugal:
+=+=+=+=+=
+Total Cases: 17,448
+New Cases: 
+Total Deaths: 567 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 347
+Num in Critical Condition: 16,534
+Total Cases Per Mil Pop: 218
+Deaths Per Mil Pop: 1,711
+Total Tests: 56
+Tests Per Mil Pop: 18,798
+
+Qatar:
+=+=+=+=+=
+Total Cases: 3,428
+New Cases: 
+Total Deaths: 7 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 373
+Num in Critical Condition: 3,048
+Total Cases Per Mil Pop: 37
+Deaths Per Mil Pop: 1,190
+Total Tests: 2
+Tests Per Mil Pop: 18,265
+
+Romania:
+=+=+=+=+=
+Total Cases: 6,879
+New Cases: 
+Total Deaths: 351 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 1,051
+Num in Critical Condition: 5,477
+Total Cases Per Mil Pop: 241
+Deaths Per Mil Pop: 358
+Total Tests: 18
+Tests Per Mil Pop: 3,644
+
+Russian Federation:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Rwanda:
+=+=+=+=+=
+Total Cases: 134
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 49
+Num in Critical Condition: 85
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 10
+Total Tests: 
+Tests Per Mil Pop: 482
+
+St Kitts & Nevis:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+St Lucia:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Saint Vincent & the Grenadines:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Samoa:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+San Marino:
+=+=+=+=+=
+Total Cases: 372
+New Cases: 
+Total Deaths: 36 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 53
+Num in Critical Condition: 283
+Total Cases Per Mil Pop: 15
+Deaths Per Mil Pop: 10,963
+Total Tests: 1,061
+Tests Per Mil Pop: 24,933
+
+Sao Tome & Principe:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Saudi Arabia:
+=+=+=+=+=
+Total Cases: 5,369
+New Cases: 
+Total Deaths: 73 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 889
+Num in Critical Condition: 4,407
+Total Cases Per Mil Pop: 59
+Deaths Per Mil Pop: 154
+Total Tests: 2
+Tests Per Mil Pop: 4,309
+
+Scotland:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Senegal:
+=+=+=+=+=
+Total Cases: 299
+New Cases: 
+Total Deaths: 2 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 183
+Num in Critical Condition: 114
+Total Cases Per Mil Pop: 1
+Deaths Per Mil Pop: 18
+Total Tests: 0.1
+Tests Per Mil Pop: 
+
+Serbia:
+=+=+=+=+=
+Total Cases: 4,465
+New Cases: 
+Total Deaths: 94 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 400
+Num in Critical Condition: 3,971
+Total Cases Per Mil Pop: 131
+Deaths Per Mil Pop: 511
+Total Tests: 11
+Tests Per Mil Pop: 2,678
+
+Seychelles:
+=+=+=+=+=
+Total Cases: 11
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 
+Num in Critical Condition: 11
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 112
+Total Tests: 
+Tests Per Mil Pop: 
+
+Sierra Leone:
+=+=+=+=+=
+Total Cases: 11
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 
+Num in Critical Condition: 11
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 1
+Total Tests: 
+Tests Per Mil Pop: 
+
+Singapore:
+=+=+=+=+=
+Total Cases: 3,252
+New Cases: 
+Total Deaths: 10 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 611
+Num in Critical Condition: 2,631
+Total Cases Per Mil Pop: 29
+Deaths Per Mil Pop: 556
+Total Tests: 2
+Tests Per Mil Pop: 12,423
+
+Slovakia:
+=+=+=+=+=
+Total Cases: 835
+New Cases: 
+Total Deaths: 2 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 113
+Num in Critical Condition: 720
+Total Cases Per Mil Pop: 5
+Deaths Per Mil Pop: 153
+Total Tests: 0.4
+Tests Per Mil Pop: 5,504
+
+Slovenia:
+=+=+=+=+=
+Total Cases: 1,220
+New Cases: 
+Total Deaths: 56 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 152
+Num in Critical Condition: 1,012
+Total Cases Per Mil Pop: 35
+Deaths Per Mil Pop: 587
+Total Tests: 27
+Tests Per Mil Pop: 17,291
+
+Solomon Islands:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Somalia:
+=+=+=+=+=
+Total Cases: 60
+New Cases: 
+Total Deaths: 2 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 2
+Num in Critical Condition: 56
+Total Cases Per Mil Pop: 2
+Deaths Per Mil Pop: 4
+Total Tests: 0.1
+Tests Per Mil Pop: 
+
+South Africa:
+=+=+=+=+=
+Total Cases: 2,415
+New Cases: 
+Total Deaths: 27 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 410
+Num in Critical Condition: 1,978
+Total Cases Per Mil Pop: 7
+Deaths Per Mil Pop: 41
+Total Tests: 0.5
+Tests Per Mil Pop: 1,467
+
+South Sudan:
+=+=+=+=+=
+Total Cases: 4
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 
+Num in Critical Condition: 4
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 0.4
+Total Tests: 
+Tests Per Mil Pop: 
+
+Spain:
+=+=+=+=+=
+Total Cases: 174,060
+New Cases: 
+Total Deaths: 18,255 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 67,504
+Num in Critical Condition: 88,301
+Total Cases Per Mil Pop: 7,371
+Deaths Per Mil Pop: 3,723
+Total Tests: 390
+Tests Per Mil Pop: 12,833
+
+Sri Lanka:
+=+=+=+=+=
+Total Cases: 233
+New Cases: 
+Total Deaths: 7 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 61
+Num in Critical Condition: 165
+Total Cases Per Mil Pop: 1
+Deaths Per Mil Pop: 11
+Total Tests: 0.3
+Tests Per Mil Pop: 223
+
+Sudan:
+=+=+=+=+=
+Total Cases: 32
+New Cases: 
+Total Deaths: 5 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 4
+Num in Critical Condition: 23
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 0.7
+Total Tests: 0.1
+Tests Per Mil Pop: 
+
+Suriname:
+=+=+=+=+=
+Total Cases: 10
+New Cases: 
+Total Deaths: 1 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 6
+Num in Critical Condition: 3
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 17
+Total Tests: 2
+Tests Per Mil Pop: 
+
+Swaziland:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Sweden:
+=+=+=+=+=
+Total Cases: 11,445
+New Cases: 
+Total Deaths: 1,033 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 381
+Num in Critical Condition: 10,031
+Total Cases Per Mil Pop: 915
+Deaths Per Mil Pop: 1,133
+Total Tests: 102
+Tests Per Mil Pop: 5,416
+
+Switzerland:
+=+=+=+=+=
+Total Cases: 25,936
+New Cases: 
+Total Deaths: 1,174 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 13,700
+Num in Critical Condition: 11,062
+Total Cases Per Mil Pop: 386
+Deaths Per Mil Pop: 2,997
+Total Tests: 136
+Tests Per Mil Pop: 22,993
+
+Syria:
+=+=+=+=+=
+Total Cases: 29
+New Cases: 
+Total Deaths: 2 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 5
+Num in Critical Condition: 22
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 2
+Total Tests: 0.1
+Tests Per Mil Pop: 
+
+Taiwan:
+=+=+=+=+=
+Total Cases: 393
+New Cases: 
+Total Deaths: 6 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 124
+Num in Critical Condition: 263
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 17
+Total Tests: 0.3
+Tests Per Mil Pop: 2,038
+
+Tajikistan:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Tanzania:
+=+=+=+=+=
+Total Cases: 53
+New Cases: 
+Total Deaths: 3 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 7
+Num in Critical Condition: 43
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 0.9
+Total Tests: 0.05
+Tests Per Mil Pop: 
+
+Thailand:
+=+=+=+=+=
+Total Cases: 2,613
+New Cases: 
+Total Deaths: 41 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 1,405
+Num in Critical Condition: 1,167
+Total Cases Per Mil Pop: 61
+Deaths Per Mil Pop: 37
+Total Tests: 0.6
+Tests Per Mil Pop: 1,440
+
+Togo:
+=+=+=+=+=
+Total Cases: 77
+New Cases: 
+Total Deaths: 3 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 32
+Num in Critical Condition: 42
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 9
+Total Tests: 0.4
+Tests Per Mil Pop: 339
+
+Tonga:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Trinidad & Tobago:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Tunisia:
+=+=+=+=+=
+Total Cases: 747
+New Cases: 
+Total Deaths: 34 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 43
+Num in Critical Condition: 670
+Total Cases Per Mil Pop: 89
+Deaths Per Mil Pop: 63
+Total Tests: 3
+Tests Per Mil Pop: 1,050
+
+Turkey:
+=+=+=+=+=
+Total Cases: 65,111
+New Cases: 
+Total Deaths: 1,403 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 4,799
+Num in Critical Condition: 58,909
+Total Cases Per Mil Pop: 1,809
+Deaths Per Mil Pop: 772
+Total Tests: 17
+Tests Per Mil Pop: 5,260
+
+Turkmenistan:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Tuvalu:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Uganda:
+=+=+=+=+=
+Total Cases: 55
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 8
+Num in Critical Condition: 47
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 1
+Total Tests: 
+Tests Per Mil Pop: 146
+
+Ukraine:
+=+=+=+=+=
+Total Cases: 3,372
+New Cases: 
+Total Deaths: 98 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 119
+Num in Critical Condition: 3,155
+Total Cases Per Mil Pop: 45
+Deaths Per Mil Pop: 77
+Total Tests: 2
+Tests Per Mil Pop: 804
+
+UAE:
+=+=+=+=+=
+Total Cases: 4,933
+New Cases: 
+Total Deaths: 28 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 933
+Num in Critical Condition: 3,972
+Total Cases Per Mil Pop: 1
+Deaths Per Mil Pop: 499
+Total Tests: 3
+Tests Per Mil Pop: 65,538
+
+UK:
+=+=+=+=+=
+Total Cases: 93,873
+New Cases: 
+Total Deaths: 12,107 
+New Deaths: 0
+Total Recovered: 
+Active Cases: N/A
+Num in Critical Condition: 81,422
+Total Cases Per Mil Pop: 1,559
+Deaths Per Mil Pop: 1,383
+Total Tests: 178
+Tests Per Mil Pop: 5,637
+
+USA:
+=+=+=+=+=
+Total Cases: 613,886
+New Cases: 
+Total Deaths: 26,047 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 38,820
+Num in Critical Condition: 549,019
+Total Cases Per Mil Pop: 13,473
+Deaths Per Mil Pop: 1,855
+Total Tests: 79
+Tests Per Mil Pop: 9,260
+
+Uruguay:
+=+=+=+=+=
+Total Cases: 492
+New Cases: 
+Total Deaths: 8 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 260
+Num in Critical Condition: 224
+Total Cases Per Mil Pop: 14
+Deaths Per Mil Pop: 142
+Total Tests: 2
+Tests Per Mil Pop: 2,858
+
+Uzbekistan:
+=+=+=+=+=
+Total Cases: 1,165
+New Cases: 
+Total Deaths: 4 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 99
+Num in Critical Condition: 1,062
+Total Cases Per Mil Pop: 8
+Deaths Per Mil Pop: 35
+Total Tests: 0.1
+Tests Per Mil Pop: 2,091
+
+Vanuatu:
+=+=+=+=+=
+Total Cases: 0
+New Cases: 0
+Total Deaths: 0
+New Deaths: 0
+Total Recovered: 0
+Active Cases: 0
+Num in Critical Condition: 0
+Total Cases Per Mil Pop: 0
+Deaths Per Mil Pop: 0
+Total Tests: 0
+Tests Per Mil Pop: 0
+
+Vatican City:
+=+=+=+=+=
+Total Cases: 8
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 2
+Num in Critical Condition: 6
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 9,988
+Total Tests: 
+Tests Per Mil Pop: 
+
+Venezuela:
+=+=+=+=+=
+Total Cases: 193
+New Cases: +4
+Total Deaths: 9 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 111
+Num in Critical Condition: 73
+Total Cases Per Mil Pop: 6
+Deaths Per Mil Pop: 7
+Total Tests: 0.3
+Tests Per Mil Pop: 7,143
+
+Vietnam:
+=+=+=+=+=
+Total Cases: 266
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 169
+Num in Critical Condition: 97
+Total Cases Per Mil Pop: 8
+Deaths Per Mil Pop: 3
+Total Tests: 
+Tests Per Mil Pop: 1,252
+
+Yemen:
+=+=+=+=+=
+Total Cases: 1
+New Cases: 
+Total Deaths:  
+New Deaths: 0
+Total Recovered: 
+Active Cases: 
+Num in Critical Condition: 1
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 0.03
+Total Tests: 
+Tests Per Mil Pop: 
+
+Zambia:
+=+=+=+=+=
+Total Cases: 45
+New Cases: 
+Total Deaths: 2 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 30
+Num in Critical Condition: 13
+Total Cases Per Mil Pop: 1
+Deaths Per Mil Pop: 2
+Total Tests: 0.1
+Tests Per Mil Pop: 92
+
+Zimbabwe:
+=+=+=+=+=
+Total Cases: 17
+New Cases: 
+Total Deaths: 3 
+New Deaths: 0
+Total Recovered: 
+Active Cases: 
+Num in Critical Condition: 14
+Total Cases Per Mil Pop: 
+Deaths Per Mil Pop: 1
+Total Tests: 0.2
+Tests Per Mil Pop: 41
+

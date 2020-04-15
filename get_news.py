@@ -19,11 +19,10 @@ def get_article_data():
     client = NewsApiClient(api_key='91e5b5381d6745068349565512dce294')
     top_headlines = client.get_top_headlines(q='coronavirus',
                                              language='en',
-                                             sources='bbc-news, cnn, cnbc, new-york-times, fox-news')
+                                             sources='bbc-news, cnbc, cnn, usa-today, google, yahoo')
 
     # top_headlines is a dict that contains ['status', 'totalResults', 'articles']
-    aList = create_pretty_list(top_headlines['articles'], top_headlines['totalResults'])
-    return aList
+    return create_pretty_list(top_headlines['articles'], top_headlines['totalResults'])
 
 
 # creates a list of all the site objects which are then put into a list
@@ -31,8 +30,10 @@ def create_pretty_list(dict, size):
     aList = []
 
     for i in range(0, size):
-        temp_site = site("", "", "", "", "", "", "")
+        if i == size-1:
+            break
 
+        temp_site = site("", "", "", "", "", "", "")
         for key, value in dict[i].items():
             if key == "source":
                 temp_site.source = value
@@ -58,9 +59,7 @@ def create_pretty_list(dict, size):
 
 # main function and nothing else
 def main():
-    aList = get_article_data()
-    for x in aList:
-        print(x)
+    return get_article_data()
 
 
 if __name__ == '__main__':

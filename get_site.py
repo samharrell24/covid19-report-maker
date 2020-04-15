@@ -54,7 +54,7 @@ def init_list():
 # stores it in tempDict which is then passed to updateCountry where countriesList in
 # the main function will be updated.
 def create_countries(countryList):
-    f = open("output/data.txt", "r")
+    f = open("txt_files/siteHTML.txt", "r")
     for line in f:
         if line.strip() == "<tr style=\"\">":
             valueDict = {
@@ -110,6 +110,7 @@ def main():
     get_worldometers_data()
     countriesList = init_list()
     create_countries(countriesList)
+    return countriesList
 
 
 if __name__ == '__main__':
