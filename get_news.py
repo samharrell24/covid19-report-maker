@@ -14,8 +14,9 @@ class site:
     content: str
 
 
+# gets articles from all the news sites below that talk about coronavirus
 def get_article_data():
-    client = NewsApiClient(api_key='32ac179029f9427c8c7a61f40e48c7c7')
+    client = NewsApiClient(api_key='91e5b5381d6745068349565512dce294')
     top_headlines = client.get_top_headlines(q='coronavirus',
                                              language='en',
                                              sources='bbc-news, cnn, cnbc, new-york-times, fox-news')
@@ -25,6 +26,7 @@ def get_article_data():
     return aList
 
 
+# creates a list of all the site objects which are then put into a list
 def create_pretty_list(dict, size):
     aList = []
 
@@ -54,6 +56,7 @@ def create_pretty_list(dict, size):
     return aList
 
 
+# main function and nothing else
 def main():
     aList = get_article_data()
     for x in aList:
