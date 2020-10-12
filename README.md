@@ -1,5 +1,5 @@
 # CRM (COVID-19 Report Maker) - What is it?
-CRM, generates a report using data gathered from various news sites and `https://www.worldometers.info/coronavirus/`. Specifically, it uses BeautifulSoup, a Python based web scraper to gather data from `https://www.worldometers.info/coronavirus/` which hosts data on every country in the world related to coronavirus and how they are being affected. To gather the most recent news articles related to the coronavirus, CRM uses newsAPI, which allows you to search through over 50,000 news sites using one API. Once the  
+CRM, generates a report using data gathered from various news sites and `https://www.worldometers.info/coronavirus/`. Specifically, it uses BeautifulSoup, a Python based web scraper to gather data from `https://www.worldometers.info/coronavirus/` which hosts data on every country in the world related to coronavirus and how they are being affected. To gather the most recent news articles related to the coronavirus, CRM uses newsAPI, which allows you to search through over 50,000 news sites using one API.  
 
 ## Preface
 In order to run `generate_report.py`, you must first install the latest version of Python. You can download the latest verison of Python at `python.org/downloads`. Once you have done this, you now need to install, the following packages so the project can run properly. 
