@@ -76,6 +76,7 @@ def create_countries(countryList):
                 splitLine = newLine.split(">")
                 if len(splitLine) == 5:
                     valueDict["name"] = splitLine[2][:splitLine[2].find("<")]
+                    print(splitLine[2][:splitLine[2].find("<")])
                 if len(splitLine) == 3:
                     value = splitLine[1][:splitLine[1].find("<")]
                     # len of tempDict is 12
