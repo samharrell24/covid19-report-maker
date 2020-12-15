@@ -16,7 +16,8 @@ class site:
 
 # gets articles from all the news sites below that talk about coronavirus
 def get_article_data():
-    client = NewsApiClient(api_key='91e5b5381d6745068349565512dce294')
+    # TODO: add api key
+    client = NewsApiClient(api_key='1234')
     top_headlines = client.get_top_headlines(q='coronavirus',
                                              language='en',
                                              sources='bbc-news, cnbc, cnn, usa-today, google, yahoo')
