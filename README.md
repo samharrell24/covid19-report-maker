@@ -1,3 +1,3 @@
 # WORK IN PROGRESS
 
-Working on getting Go and React web app up and running.
+GO/basic/html/css and MongoDB for database
